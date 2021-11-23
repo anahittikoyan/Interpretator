@@ -1,0 +1,16 @@
+rac a = 10 ;
+rac b = 0 ;
+amb x = 13 ;
+amb y = 11 ;
+tox ac = "pox" ;
+tox cv = "pox" ;
+ac = cv ;
+tram u = false ;
+tram i = true ;
+qani ( x > y ) {
+tpel -> ( barev ) -> ( et ) ;
+y = y + 1 ;
+} 
+ete ( x == y ) {
+tpel -> ( x = y ) -> ( et ) ;
+}
