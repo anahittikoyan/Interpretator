@@ -1,0 +1,42 @@
+Interpretator can do some operations, such as variable declarations, where the c++
+ int is "amb" ;
+doube is "rac";
+string is "tox";
+bool is "tram";
+if is "ete";
+while is "qani";
+" ; " is ?ssential 
+for amb you can do +,-,/,* operators but only once, so it is for rac
+for tox you can do concatenation with + operator
+for tram you can do &&,||,<,>,==,!, here they are same as in c++
+for output you can use tpel keyword after which you must put ->, example
+tpel -> a -> b ->  ( you can output strings so )  ->  ( et ) ;
+et is as same as endl in c++ , which must be written in () ;
+declaration  example 
+amb a  = 50 ;
+tox a = "something" ;
+tram = true ;
+after every character you must put space
+condition examples
+	ete ( a == b && b == c ) {
+		\\somecode ;
+	}
+ete ( a == b ) {
+		\\somecode ;
+	}
+	ete ( a ) {
+		\\somecode ;
+	}
+	ete ( ! a ) {
+		\\somecode ;
+	}
+
+
+cycle examples
+	amb x = 13 ;
+	amb y = 11 ;
+	qani ( x > y ) {
+tpel -> ( barev ) ;
+y = y + 1 ;
+	}
+you can't use tabs but in code you can have empty lines
