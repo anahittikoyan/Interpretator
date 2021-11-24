@@ -357,23 +357,6 @@ bool do_condition(std::vector<std::string>& cond) {
         }
     }
 }
- 
-void do_loop(std::vector<std::string>& tokens) {
-   /* bool o = do_condition(cond);
-    if (o == true) {
-        int i = 0;
-        if (tokens[i] == "}") mutq = false;
-        if (mutq == true) {
-            do_body_cond(tokens);
-            
-        }
-    }
-    else {
-        int i = 0;
-        if (tokens[i] == "}") mutq = false;
-        return;
-    }*/
-}
 
 
 void do_printing(std::vector<std::string>& vec) {
